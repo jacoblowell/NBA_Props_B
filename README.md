@@ -1,2 +1,2 @@
-# NBA_Props_BVDA
+# NBA_Props_B
 Betting NBA player props
